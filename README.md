@@ -8,7 +8,7 @@ Address: Bändlistrasse 25, 8064, Zurich.
 ### Frontend Developer || MERN stack developer
 #### Zürich, Switzerland.
 
-#### `Continous Learner and developer and sharer !!!`
+#### `Continous Learner and developer and spreader !!!`
 
 - 🔭  I just launched my last MERN "Creative-Agency" project: [creative-agency](https://creative-agency-demo.netlify.app/)
 - 🌱  I’m currently emphasis on REACTJs and JavaScript.
