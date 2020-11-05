@@ -4,7 +4,7 @@ Address: Bändlistrasse 25, 8064, Zurich.
 
 +41 (0) 789696677
 
-[GitHub](https://github.com/touhedulhaque)    [LinkedIn](https://www.linkedin.com/in/md-touhedul-haque)    [facebook](https://facebook.com/haque.touhedul)    [Twitter](https://twitter.com/HaqueTouhedul)    [Medium](https://razmbamkt.medium.com) 
+[GitHub](https://github.com/touhedulhaque)    [LinkedIn](https://www.linkedin.com/in/md-touhedul-haque)    [facebook](https://facebook.com/haque.touhedul)    [Twitter](https://twitter.com/HaqueTouhedul)    [Medium](https://haque-touhedul.medium.com) 
 ### Frontend Developer || MERN stack developer
 #### Zürich, Switzerland.
 
