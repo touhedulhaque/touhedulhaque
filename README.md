@@ -30,7 +30,7 @@ Address: Bändlistrasse 25, 8064, Zurich.
 - an e-commerce project with payment gateway.
 - If anything new you need, i am gonna learn and implement for you.
 
-### `Technology used:`
+### `Which technology i have learned`
 - React-Js 
   - React-Router 
   - Context-api 
